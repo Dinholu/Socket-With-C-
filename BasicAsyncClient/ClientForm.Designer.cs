@@ -54,7 +54,7 @@
             // 
             this.buttonSend.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.buttonSend.Enabled = false;
-            this.buttonSend.Location = new System.Drawing.Point(489, 305);
+            this.buttonSend.Location = new System.Drawing.Point(670, 125);
             this.buttonSend.Name = "buttonSend";
             this.buttonSend.Size = new System.Drawing.Size(75, 23);
             this.buttonSend.TabIndex = 0;
@@ -65,7 +65,7 @@
             // buttonConnect
             // 
             this.buttonConnect.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.buttonConnect.Location = new System.Drawing.Point(570, 305);
+            this.buttonConnect.Location = new System.Drawing.Point(751, 125);
             this.buttonConnect.Name = "buttonConnect";
             this.buttonConnect.Size = new System.Drawing.Size(75, 23);
             this.buttonConnect.TabIndex = 1;
@@ -77,7 +77,7 @@
             // 
             this.labelIP.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.labelIP.AutoSize = true;
-            this.labelIP.Location = new System.Drawing.Point(12, 310);
+            this.labelIP.Location = new System.Drawing.Point(12, 130);
             this.labelIP.Name = "labelIP";
             this.labelIP.Size = new System.Drawing.Size(17, 13);
             this.labelIP.TabIndex = 3;
@@ -86,7 +86,7 @@
             // textBoxAddress
             // 
             this.textBoxAddress.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.textBoxAddress.Location = new System.Drawing.Point(35, 307);
+            this.textBoxAddress.Location = new System.Drawing.Point(35, 127);
             this.textBoxAddress.Name = "textBoxAddress";
             this.textBoxAddress.Size = new System.Drawing.Size(185, 20);
             this.textBoxAddress.TabIndex = 4;
@@ -97,20 +97,20 @@
             this.checkBoxMale.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.checkBoxMale.AutoSize = true;
-            this.checkBoxMale.Location = new System.Drawing.Point(14, 259);
+            this.checkBoxMale.Location = new System.Drawing.Point(14, 79);
             this.checkBoxMale.Name = "checkBoxMale";
-            this.checkBoxMale.Size = new System.Drawing.Size(60, 17);
+            this.checkBoxMale.Size = new System.Drawing.Size(73, 17);
             this.checkBoxMale.TabIndex = 5;
-            this.checkBoxMale.Text = "Is Male";
+            this.checkBoxMale.Text = "Garcon ? ";
             this.checkBoxMale.UseVisualStyleBackColor = true;
             // 
             // textBoxEmployee
             // 
             this.textBoxEmployee.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBoxEmployee.Location = new System.Drawing.Point(70, 192);
+            this.textBoxEmployee.Location = new System.Drawing.Point(70, 12);
             this.textBoxEmployee.Name = "textBoxEmployee";
-            this.textBoxEmployee.Size = new System.Drawing.Size(575, 20);
+            this.textBoxEmployee.Size = new System.Drawing.Size(756, 20);
             this.textBoxEmployee.TabIndex = 7;
             // 
             // label1
@@ -118,7 +118,7 @@
             this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(11, 195);
+            this.label1.Location = new System.Drawing.Point(11, 15);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(35, 13);
             this.label1.TabIndex = 6;
@@ -128,9 +128,9 @@
             // 
             this.numberBoxAge.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.numberBoxAge.Location = new System.Drawing.Point(55, 282);
+            this.numberBoxAge.Location = new System.Drawing.Point(55, 102);
             this.numberBoxAge.Name = "numberBoxAge";
-            this.numberBoxAge.Size = new System.Drawing.Size(342, 20);
+            this.numberBoxAge.Size = new System.Drawing.Size(165, 20);
             this.numberBoxAge.TabIndex = 8;
             // 
             // label2
@@ -138,7 +138,7 @@
             this.label2.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(14, 284);
+            this.label2.Location = new System.Drawing.Point(14, 104);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(26, 13);
             this.label2.TabIndex = 9;
@@ -148,9 +148,9 @@
             // 
             this.textBox1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox1.Location = new System.Drawing.Point(70, 218);
+            this.textBox1.Location = new System.Drawing.Point(70, 38);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(575, 20);
+            this.textBox1.Size = new System.Drawing.Size(756, 20);
             this.textBox1.TabIndex = 11;
             // 
             // label3
@@ -158,7 +158,7 @@
             this.label3.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(11, 221);
+            this.label3.Location = new System.Drawing.Point(11, 41);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(50, 13);
             this.label3.TabIndex = 10;
@@ -170,7 +170,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(489, 274);
+            this.button1.Location = new System.Drawing.Point(670, 79);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(156, 23);
             this.button1.TabIndex = 12;
@@ -180,9 +180,12 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(0, 0);
+            this.pictureBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.pictureBox1.Location = new System.Drawing.Point(552, 79);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(204, 186);
+            this.pictureBox1.Size = new System.Drawing.Size(86, 69);
             this.pictureBox1.TabIndex = 13;
             this.pictureBox1.TabStop = false;
             // 
@@ -190,7 +193,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(657, 340);
+            this.ClientSize = new System.Drawing.Size(838, 160);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.textBox1);
