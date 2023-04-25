@@ -1,0 +1,11 @@
+C:\Users\AlizeePro\Source\Repos\NetworkingSamples\BasicAsyncClient\bin\Debug\BasicAsyncClient.exe.config
+C:\Users\AlizeePro\Source\Repos\NetworkingSamples\BasicAsyncClient\bin\Debug\BasicAsyncClient.exe
+C:\Users\AlizeePro\Source\Repos\NetworkingSamples\BasicAsyncClient\bin\Debug\BasicAsyncClient.pdb
+C:\Users\AlizeePro\Source\Repos\NetworkingSamples\BasicAsyncClient\obj\Debug\BasicAsyncClient.csproj.AssemblyReference.cache
+C:\Users\AlizeePro\Source\Repos\NetworkingSamples\BasicAsyncClient\obj\Debug\BasicAsyncClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\AlizeePro\Source\Repos\NetworkingSamples\BasicAsyncClient\obj\Debug\BasicAsyncClient.ClientForm.resources
+C:\Users\AlizeePro\Source\Repos\NetworkingSamples\BasicAsyncClient\obj\Debug\BasicAsyncClient.Properties.Resources.resources
+C:\Users\AlizeePro\Source\Repos\NetworkingSamples\BasicAsyncClient\obj\Debug\BasicAsyncClient.csproj.GenerateResource.cache
+C:\Users\AlizeePro\Source\Repos\NetworkingSamples\BasicAsyncClient\obj\Debug\BasicAsyncClient.csproj.CoreCompileInputs.cache
+C:\Users\AlizeePro\Source\Repos\NetworkingSamples\BasicAsyncClient\obj\Debug\BasicAsyncClient.exe
+C:\Users\AlizeePro\Source\Repos\NetworkingSamples\BasicAsyncClient\obj\Debug\BasicAsyncClient.pdb
