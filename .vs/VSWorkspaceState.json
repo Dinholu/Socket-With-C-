@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\BasicAsyncClient"
+    "\\BasicAsyncClient",
+    "\\BasicAsyncClient\\obj"
   ],
-  "SelectedNode": "\\BasicAsyncClient\\BasicAsyncClient.csproj",
+  "SelectedNode": "\\BasicAsyncClient\\ClientForm.Designer.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -94,7 +94,7 @@
             // 
             // Path
             // 
-            this.Path.FillWeight = 449.2386F;
+            this.Path.FillWeight = 6.728521F;
             this.Path.HeaderText = "Path";
             this.Path.Name = "Path";
             // 
